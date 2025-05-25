@@ -8,3 +8,14 @@ def WalkBenefit (hours, numOfDaysInWeek):
   health = (100/(7*5))*((hours/5)+(hours%5))*numOfDaysInWeek
   return health
 ```
+Below activities along with morning walk give more benefit.
+- Simple execercises
+- Asanas
+- Pranayama
+
+It can be done in below order.
+1. Simple excersies
+2. Morning walk
+3. Prnayama
+4. Asanas
+   
