@@ -24,3 +24,6 @@ Tasks for morning walk can be listed as below and tracked and the marked as done
 - [x] Get ready by 5:30 AM for walk
 - [ ] Do simple excercises for 30 mins
 - [ ] Go for 30 mins walk
+
+The below links can be referred to get details about benefits of walk.
+[Walking](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/walking/art-20046261)
