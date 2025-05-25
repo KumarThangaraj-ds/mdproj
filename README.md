@@ -32,3 +32,9 @@ The below links can be referred to get details about benefits of walk.
 
 ![Simple Walk](simplewalk.png)
 
+5 friends walked everyday and their distance covered and speed of their walk listed below.
+
+|Name    |Distance (KM)| Speed (KM/Hour)|
+|--------|-------------|----------------|
+|Kumar   |30           |7.5             |
+|Ravi    |35           |8               |
