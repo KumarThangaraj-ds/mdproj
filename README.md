@@ -38,3 +38,6 @@ The below links can be referred to get details about benefits of walk.
 |--------|-------------|----------------|
 |Kumar   |30           |7.5             |
 |Ravi    |35           |8               |
+
+There is a famous quote
+> In every walk with nature one receives far more than he seeks.
