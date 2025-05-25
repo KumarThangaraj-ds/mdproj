@@ -27,7 +27,8 @@ Tasks for morning walk can be listed as below and tracked and the marked as done
 - [ ] Go for 30 mins walk
 
 The below links can be referred to get details about benefits of walk.
+
 [Walking](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/walking/art-20046261)
-=======
-If you **Walk in the morning"" for *5 Km* everyday, makes you fit. It strikes your ~~laziness~~ and tick your activeness.
->>>>>>> Stashed changes
+
+![Simple Walk](simplewalk.png)
+
